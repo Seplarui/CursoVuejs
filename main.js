@@ -1,7 +1,8 @@
 const app = Vue.createApp({
     data() {
         return {
-            titulo: 'Esto es un hola mundo con Vue'
+            titulo: 'Mi Banco',
+            cantidad: 1000
         }
     }
 })
